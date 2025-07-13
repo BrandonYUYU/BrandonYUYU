@@ -1,5 +1,10 @@
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=BrandonYUYU&layout=compact&theme=default)
+# HI 😄
 ![MEOW](https://i.pinimg.com/736x/6b/7f/6b/6b7f6b118ebc01f6e8d8b6e6027398af.jpg)
+
+---
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=BrandonYUYU&layout=compact&theme=default)
+
 
 <!--
 **BrandonYUYU/BrandonYUYU** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
