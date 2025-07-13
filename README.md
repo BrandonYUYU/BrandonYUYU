@@ -1,9 +1,8 @@
 # HI 😄
 ![MEOW](https://i.pinimg.com/736x/6b/7f/6b/6b7f6b118ebc01f6e8d8b6e6027398af.jpg)
 
-<pre>
-```
-java
+
+```java
 while (life-- > 0) {
     try {
         enjoy();
@@ -11,7 +10,6 @@ while (life-- > 0) {
         reboot();
 }
 ```
-</pre>
 
 ---
 
