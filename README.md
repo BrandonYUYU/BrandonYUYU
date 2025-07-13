@@ -1,5 +1,6 @@
 # HI 😄
-![MEOW](https://i.pinimg.com/736x/6b/7f/6b/6b7f6b118ebc01f6e8d8b6e6027398af.jpg)
+<img src="https://i.pinimg.com/736x/6b/7f/6b/6b7f6b118ebc01f6e8d8b6e6027398af.jpg" alt="MEOW" width="200"/>
+
 
 
 ```java
