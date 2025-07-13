@@ -1,4 +1,5 @@
-![Top Language](https://img.shields.io/github/languages/top/BrandonYUYU/Note-App)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=BrandonYUYU&layout=compact&theme=default)
+
 
 <p align="center">
   <img src="https://i.pinimg.com/736x/6b/7f/6b/6b7f6b118ebc01f6e8d8b6e6027398af.jpg" width="800"/>
