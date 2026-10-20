@@ -1,5 +1,5 @@
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=BrandonYUYU&layout=compact&theme=default)
+<!-- ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=BrandonYUYU&layout=compact&theme=default) -->
 
 
 <!--
